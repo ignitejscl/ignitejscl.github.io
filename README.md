@@ -202,3 +202,12 @@ If you've installed the provider, you can now deploy using that provider with:
 ```ignite deploy --provider {provider_name}```
 
 Ignite will automatically load the provider and execute the ```run``` method.
+
+# Links
+- [Home](/)
+- [Quick Start](/#/quick_start)
+- [Creating your first Ignite app](/#/creating_your_first_ignite_app)
+- [Sharing your ignite application](/#/sharing_your_ignite_app)
+- [Creating a cloud provider file](/#/creating_cloud_provider_file)
+- [Installing a cloud provider file](/#/installing_cloud_provider_file)
+- [Deploying using a custom cloud provider file](/#/deploy_using_custom_provider_file)
